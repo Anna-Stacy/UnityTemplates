@@ -1,4 +1,4 @@
-# UnityTemplates
+# UnityTemplates/ToolKit
 
 This template is meant for Unity / C# scripts that can be reused without needing to change the core logic of the scripts!
 
